@@ -25,8 +25,7 @@ Given N = 32 the function should return 0,
 because N has binary representation '100000' and thus no binary gaps.
 
 Write an efficient algorithm for the following assumptions:
-
-N is an integer within the range [1..2,147,483,647].
+    - N is an integer within the range [1..2,147,483,647].
 """
 
 # you can write to stdout for debugging purposes, e.g.
