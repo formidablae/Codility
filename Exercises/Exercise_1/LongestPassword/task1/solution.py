@@ -12,7 +12,7 @@ def solution(S):
 
 def is_valid_password(password):
     """
-    it has to contain only alphanumerical characters (a−z, A−Z, 0−9);
+    it has to contain only alphanumerical characters (a-z, A-Z, 0-9);
     there should be an even number of letters;
     there should be an odd number of digits.
     """
